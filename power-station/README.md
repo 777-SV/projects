@@ -56,13 +56,39 @@ The unit features a versatile output array, optimized for different use cases:
 <details>
   <summary><b>Click to expand: Step-by-step Assembly Photos</b></summary>
   <p align="center">
-    <img src="images/assembly_1.jpg" width="32%" />
-    <img src="images/assembly_2.jpg" width="32%" />
-    <img src="images/assembly_3.jpg" width="32%" />
+    <img src="images/IMG_1_Bettery.jpg" width="32%" />
+    <img src="images/IMG_2_Battery_BMS.jpg" width="32%" />
+    <img src="images/IMG_3_Battery_BMS.jpg" width="32%" />
   </p>
   <p align="center">
-    <img src="images/internal_wiring.jpg" width="48%" />
-    <img src="images/bms_details.jpg" width="48%" />
+    <img src="images/IMG_4_Box_USB_charge.jpg" width="48%" />
+    <img src="images/IMG_5_Box_Battery.jpg" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="images/IMG_6_Led_modules.jpg" width="32%" />
+    <img src="images/IMG_7_Led_modules.jpg" width="32%" />
+    <img src="images/IMG_8_Led_3D.jpg" width="32%" />
+  </p>
+
+  <p align="center">
+    <img src="images/IMG_9_Led_Box.jpg" width="48%" />
+    <img src="images/IMG_10_Led_Box.jpg" width="48%" />
+  </p>
+ <p align="center">
+    <img src="images/IMG_11_Fuse_Battery.jpg" width="32%" />
+    <img src="images/IMG_12_DCDC_modules.jpg" width="32%" />
+    <img src="images/IMG_13_DCDC_modules.jpg" width="32%" />
+  </p>
+   <p align="center">
+    <img src="images/IMG_14_Box_DCDC_ports.jpg" width="32%" />
+    <img src="images/IMG_15_Box_Battery_montag.jpg" width="32%" />
+    <img src="images/IMG_16_Box_Battery_montag.jpg" width="32%" />
+  </p>
+  <p align="center">
+    <img src="images/IMG_17_Power_B_Panel.jpg" width="32%" />
+    <img src="images/IMG_Power_B_panel.jpg" width="32%" />
+    <img src="images/IMG_flashlight_handle.jpg" width="32%" />
   </p>
   <p>
     <b>Engineering Note:</b> During the assembly, special attention was paid to wire management and insulation. 
