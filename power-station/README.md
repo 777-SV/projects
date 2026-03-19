@@ -3,8 +3,9 @@ Project Overview
 This project is a rugged, multi-functional portable power solution designed for demanding field conditions. It leverages the safety and longevity of LiFePO4 chemistry, managed by a professional BMS and active balancing system, to provide reliable power for various devices, from smartphones to direct 12V equipment.
 
 <p align="center">
-<img src="images/front_panel.png" width="45%" alt="Front Panel Interface" />
-<img src="images/flashlight_handle.png" width="45%" alt="Integrated Flashlight Handle" />
+<img src="images/IMG_Power_B_1" width="33%" alt="Power Station" />
+<img src="images/IMG_Power_B_panel.jpg" width="33%" alt="Panel" />
+<img src="images/IMG_flashlight_handle.jpg" width="33%" alt="Integrated Flashlight Handle" />
 </p>
 
 Technical Specifications & Features
