@@ -52,17 +52,30 @@ The unit features a versatile output array, optimized for different use cases:
 
 ---
 
+## 📐 3D Design & Interactive Model
+To provide a comprehensive view of the mechanical assembly, an interactive 3D PDF is available.
+
+* [**Download 3D Interactive Assembly (PDF)**](documents/3d_for_lifepo4_Power_B_25Ah.PDF)
+    * *Note: Interactive features require Adobe Acrobat Reader. After opening, click "Trust this document" to activate the 3D view.*
+
+<p align="center">
+  <img src="images/3d_model_preview.png" width="70%" alt="3D Model Preview" />
+  <br><em>Visual preview of the internal layout and handle assembly.</em>
+</p>
+
+---
+
 ## 🛠️ Build Process & Internal Layout
 <details>
   <summary><b>Click to expand: Step-by-step Assembly Photos</b></summary>
   <p align="center">
-    <img src="images/IMG_1_Bettery.jpg" width="32%" />
-    <img src="images/IMG_2_Battery_BMS.jpg" width="32%" />
-    <img src="images/IMG_3_Battery_BMS.jpg" width="32%" />
+    <img src="images/IMG_1_Bettery.jpg" width="21%" />
+    <img src="images/IMG_2_Battery_BMS.jpg" width="37%" />
+    <img src="images/IMG_3_Battery_BMS.jpg" width="37%" />
   </p>
   <p align="center">
-    <img src="images/IMG_4_Box_USB_charge.jpg" width="64%" />
-    <img src="images/IMG_5_Box_Battery.jpg" width="32%" />
+    <img src="images/IMG_4_Box_USB_charge.jpg" width="61%" />
+    <img src="images/IMG_5_Box_Battery.jpg" width="35%" />
   </p>
 
   <p align="center">
@@ -76,14 +89,14 @@ The unit features a versatile output array, optimized for different use cases:
     <img src="images/IMG_10_Led_Box.jpg" width="48%" />
   </p>
  <p align="center">
-    <img src="images/IMG_11_Fuse_Battery.jpg" width="32%" />
-    <img src="images/IMG_12_DCDC_modules.jpg" width="32%" />
-    <img src="images/IMG_13_DCDC_modules.jpg" width="32%" />
+    <img src="images/IMG_11_Fuse_Battery.jpg" width="45%" />
+    <img src="images/IMG_12_DCDC_modules.jpg" width="25.5%" />
+    <img src="images/IMG_13_DCDC_modules.jpg" width="25.5%" />
   </p>
    <p align="center">
-    <img src="images/IMG_14_Box_DCDC_ports.jpg" width="32%" />
-    <img src="images/IMG_15_Box_Battery_montag.jpg" width="32%" />
-    <img src="images/IMG_16_Box_Battery_montag.jpg" width="32%" />
+    <img src="images/IMG_14_Box_DCDC_ports.jpg" width="45%" />
+    <img src="images/IMG_15_Box_Battery_montag.jpg" width="25.5%" />
+    <img src="images/IMG_16_Box_Battery_montag.jpg" width="25.5%" />
   </p>
   <p align="center">
     <img src="images/IMG_17_Power_B_Panel.jpg" width="32%" />
@@ -97,14 +110,5 @@ The unit features a versatile output array, optimized for different use cases:
   </p>
 </details>
 
-### 📐 3D Design & Interactive Model
-To provide a comprehensive view of the mechanical assembly, an interactive 3D PDF is available.
 
-* [**Download 3D Interactive Assembly (PDF)**](documents/3d_for_lifepo4_Power_B_25Ah.PDF)
-    * *Note: Interactive features require Adobe Acrobat Reader. After opening, click "Trust this document" to activate the 3D view.*
-
-<p align="center">
-  <img src="images/3d_model_preview.png" width="70%" alt="3D Model Preview" />
-  <br><em>Visual preview of the internal layout and handle assembly.</em>
-</p>
 
