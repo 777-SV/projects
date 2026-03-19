@@ -10,17 +10,17 @@ This project is a rugged, multi-functional portable power solution designed for 
 ---
 
 ## Technical Specifications & Features
-Core Power System
+### ⚡ Core Power System
 
-* Battery: LiFePO4 4S configuration (12.8V Nominal).
-* Capacity: 25Ah.
-* Battery Management: Integrated BMS (Battery Management System) for core protection.
-* Balancing: Daly Active Balancer installed to ensure cell voltage parity, maximizing battery life and usable capacity.
+* **Battery:** LiFePO4 4S configuration (12.8V Nominal).
+* **Capacity:** 25Ah.
+* **Battery Management:** Integrated BMS (Battery Management System) for core protection.
+* **Balancing:** Daly Active Balancer installed to ensure cell voltage parity, maximizing battery life and usable capacity.
 
-##  Output Interfaces & Power Conversion
+###  🔌 Output Interfaces & Power Conversion
 The unit features a versatile output array, optimized for different use cases:
 
-1. USB Charging (2x Modules):
+**1. USB Charging (2x Modules):**
 
 * High-speed charging with Quick Charge 3.0 (QC 3.0) support.
 
@@ -28,24 +28,45 @@ The unit features a versatile output array, optimized for different use cases:
 
 * Independent blue LED status illumination.
 
-2. DC 12V Outputs (2x Ports):
+**2. DC 12V Outputs (2x Ports):**
 
 * Standard DC 5.5x2.1mm jacks.
 
 * Equipped with integrated Buck-Boost (Up/Down) DC-DC converters, ensuring a stable 12V output regardless of the battery's state of charge.
 
-3. High-Current Bi-Directional Port (1x Port):
+**3. High-Current Bi-Directional Port (1x Port):**
 
 * Unstabilized direct connection from the BMS.
 
 * Designed for high-current applications or for charging the station itself.
 
-## Integrated Utility
-* High-Intensity LED Flashlight: Seamlessly integrated into the carry handle for ergonomic, hands-free illumination when the station is set down.
+### 💡 Integrated Utility
+* **High-Intensity LED Flashlight:** Seamlessly integrated into the carry handle for ergonomic, hands-free illumination when the station is set down.
 
-## User Interface & Safety
-* Real-time Voltmeter: Bright green digital display on the front panel provides instant battery voltage feedback.
+### 🛡️ User Interface & Safety
+* **Real-time Voltmeter:** Bright green digital display on the front panel provides instant battery voltage feedback.
 
-* Independent Switching: Key functional groups (USB modules, DC outputs, flashlight) feature dedicated, protected on/off switches, minimizing standby power consumption.
+* **Independent Switching:** Key functional groups (USB modules, DC outputs, flashlight) feature dedicated, protected on/off switches, minimizing standby power consumption.
 
-* Weather Protection: All front panel output ports feature integrated rubber dust covers.
+* **Weather Protection:** All front panel output ports feature integrated rubber dust covers.
+
+---
+
+## 🛠️ Build Process & Internal Layout
+<details>
+  <summary><b>Click to expand: Step-by-step Assembly Photos</b></summary>
+  <p align="center">
+    <img src="images/assembly_1.jpg" width="32%" />
+    <img src="images/assembly_2.jpg" width="32%" />
+    <img src="images/assembly_3.jpg" width="32%" />
+  </p>
+  <p align="center">
+    <img src="images/internal_wiring.jpg" width="48%" />
+    <img src="images/bms_details.jpg" width="48%" />
+  </p>
+  <p>
+    <b>Engineering Note:</b> During the assembly, special attention was paid to wire management and insulation. 
+    I used a <b>Daly Active Balancer</b> alongside the BMS to ensure long-term cell health. 
+    All high-current paths are reinforced and fused for maximum safety.
+  </p>
+</details>
