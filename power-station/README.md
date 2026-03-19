@@ -8,7 +8,8 @@ This project is a rugged, multi-functional portable power solution designed for 
 <img src="images/IMG_flashlight_handle.jpg" width="33%" alt="Integrated Flashlight Handle" />
 </p>
 ---
-## ** Technical Specifications & Features**
+
+## Technical Specifications & Features
 Core Power System
 
 * Battery: LiFePO4 4S configuration (12.8V Nominal).
@@ -16,10 +17,10 @@ Core Power System
 * Battery Management: Integrated BMS (Battery Management System) for core protection.
 * Balancing: Daly Active Balancer installed to ensure cell voltage parity, maximizing battery life and usable capacity.
 
-## ** Output Interfaces & Power Conversion**
+##  Output Interfaces & Power Conversion
 The unit features a versatile output array, optimized for different use cases:
 
-** USB Charging (2x Modules):**
+USB Charging (2x Modules):
 
 * High-speed charging with Quick Charge 3.0 (QC 3.0) support.
 
