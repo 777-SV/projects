@@ -20,7 +20,7 @@ Core Power System
 ##  Output Interfaces & Power Conversion
 The unit features a versatile output array, optimized for different use cases:
 
-USB Charging (2x Modules):
+1. USB Charging (2x Modules):
 
 * High-speed charging with Quick Charge 3.0 (QC 3.0) support.
 
@@ -28,24 +28,24 @@ USB Charging (2x Modules):
 
 * Independent blue LED status illumination.
 
-DC 12V Outputs (2x Ports):
+2. DC 12V Outputs (2x Ports):
 
-Standard DC 5.5x2.1mm jacks.
+* Standard DC 5.5x2.1mm jacks.
 
-Equipped with integrated Buck-Boost (Up/Down) DC-DC converters, ensuring a stable 12V output regardless of the battery's state of charge.
+* Equipped with integrated Buck-Boost (Up/Down) DC-DC converters, ensuring a stable 12V output regardless of the battery's state of charge.
 
-High-Current Bi-Directional Port (1x Port):
+3. High-Current Bi-Directional Port (1x Port):
 
-Unstabilized direct connection from the BMS.
+* Unstabilized direct connection from the BMS.
 
-Designed for high-current applications or for charging the station itself.
+* Designed for high-current applications or for charging the station itself.
 
-Integrated Utility
-High-Intensity LED Flashlight: Seamlessly integrated into the carry handle for ergonomic, hands-free illumination when the station is set down.
+## Integrated Utility
+* High-Intensity LED Flashlight: Seamlessly integrated into the carry handle for ergonomic, hands-free illumination when the station is set down.
 
-User Interface & Safety
-Real-time Voltmeter: Bright green digital display on the front panel provides instant battery voltage feedback.
+## User Interface & Safety
+* Real-time Voltmeter: Bright green digital display on the front panel provides instant battery voltage feedback.
 
-Independent Switching: Key functional groups (USB modules, DC outputs, flashlight) feature dedicated, protected on/off switches, minimizing standby power consumption.
+* Independent Switching: Key functional groups (USB modules, DC outputs, flashlight) feature dedicated, protected on/off switches, minimizing standby power consumption.
 
-Weather Protection: All front panel output ports feature integrated rubber dust covers.
+* Weather Protection: All front panel output ports feature integrated rubber dust covers.
