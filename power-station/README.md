@@ -70,3 +70,7 @@ The unit features a versatile output array, optimized for different use cases:
     All high-current paths are reinforced and fused for maximum safety.
   </p>
 </details>
+
+### 📐 3D Interactive Models & Mechanical Design
+* [**Full Assembly 3D View (PDF)**](./documents/power_station_3d_assembly.pdf) — **Interactive 3D PDF**. Open with Adobe Acrobat to rotate, zoom, and inspect the internal layout and handle assembly.
+
