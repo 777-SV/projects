@@ -1,5 +1,5 @@
 # Field-Ready 12V 25Ah LiFePO4 Power Station with Active Balancing
-## Project Overview
+## Project Overview##
 This project is a rugged, multi-functional portable power solution designed for demanding field conditions. It leverages the safety and longevity of LiFePO4 chemistry, managed by a professional BMS and active balancing system, to provide reliable power for various devices, from smartphones to direct 12V equipment.
 
 <p align="center">
