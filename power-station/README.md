@@ -72,5 +72,5 @@ The unit features a versatile output array, optimized for different use cases:
 </details>
 
 ### 📐 3D Interactive Models & Mechanical Design
-* [**Full Assembly 3D View (PDF)**](./documents/power_station_3d_assembly.pdf) — **Interactive 3D PDF**. Open with Adobe Acrobat to rotate, zoom, and inspect the internal layout and handle assembly.
+* [**Full Assembly 3D View (PDF)**](./documents/3d_for_lifepo4_Power_B_25Ah .PDF) — **Interactive 3D PDF**. Open with Adobe Acrobat to rotate, zoom, and inspect the internal layout and handle assembly.
 
