@@ -61,8 +61,8 @@ The unit features a versatile output array, optimized for different use cases:
     <img src="images/IMG_3_Battery_BMS.jpg" width="32%" />
   </p>
   <p align="center">
-    <img src="images/IMG_4_Box_USB_charge.jpg" width="48%" />
-    <img src="images/IMG_5_Box_Battery.jpg" width="48%" />
+    <img src="images/IMG_4_Box_USB_charge.jpg" width="64%" />
+    <img src="images/IMG_5_Box_Battery.jpg" width="32%" />
   </p>
 
   <p align="center">
