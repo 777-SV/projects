@@ -71,6 +71,14 @@ The unit features a versatile output array, optimized for different use cases:
   </p>
 </details>
 
-### 📐 3D Interactive Models & Mechanical Design
-* [**Full Assembly 3D View (PDF)**](./documents/3d_for_lifepo4_Power_B_25Ah .PDF) — **Interactive 3D PDF**. Open with Adobe Acrobat to rotate, zoom, and inspect the internal layout and handle assembly.
+### 📐 3D Design & Interactive Model
+To provide a comprehensive view of the mechanical assembly, an interactive 3D PDF is available.
+
+* [**Download 3D Interactive Assembly (PDF)**](./3d_for_lifepo4_Power_B_25Ah%20.PDF)
+    * *Note: Interactive features require Adobe Acrobat Reader. After opening, click "Trust this document" to activate the 3D view.*
+
+<p align="center">
+  <img src="images/3d_model_preview.png" width="70%" alt="3D Model Preview" />
+  <br><em>Visual preview of the internal layout and handle assembly.</em>
+</p>
 
