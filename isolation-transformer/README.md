@@ -64,9 +64,9 @@ To provide a comprehensive view of the mechanical assembly, an interactive 3D PD
   </p>
   
  <p align="center">
-    <img src="images/LGIU_Box_8.jpg" width="32%" />
-    <img src="images/LGIU_Box_9.jpg" width="32%" />
-    <img src="images/LGIU_Box_7.jpg" width="32%" />
+    <img src="images/LGIU_Box_8.jpg" width="22%" />
+    <img src="images/LGIU_Box_9.jpg" width="36%" />
+    <img src="images/LGIU_Box_7.jpg" width="38%" />
   </p>   
   
 </details>
