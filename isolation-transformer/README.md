@@ -51,46 +51,24 @@ To provide a comprehensive view of the mechanical assembly, an interactive 3D PD
 ## 🛠️ Build Process & Internal Layout
 <details>
   <summary><b>Click to expand: Step-by-step Assembly Photos</b></summary>
-  <p align="center">
-    <img src="images/IMG_1_Bettery.jpg" width="21%" />
-    <img src="images/IMG_2_Battery_BMS.jpg" width="37%" />
-    <img src="images/IMG_3_Battery_BMS.jpg" width="37%" />
-  </p>
-  <p align="center">
-    <img src="images/IMG_4_Box_USB_charge.jpg" width="61%" />
-    <img src="images/IMG_5_Box_Battery.jpg" width="35%" />
-  </p>
-
-  <p align="center">
-    <img src="images/IMG_6_Led_modules.jpg" width="32%" />
-    <img src="images/IMG_7_Led_modules.jpg" width="32%" />
-    <img src="images/IMG_8_Led_3D.jpg" width="32%" />
-  </p>
-
-  <p align="center">
-    <img src="images/IMG_9_Led_Box.jpg" width="48%" />
-    <img src="images/IMG_10_Led_Box.jpg" width="48%" />
-  </p>
  <p align="center">
-    <img src="images/IMG_11_Fuse_Battery.jpg" width="45%" />
-    <img src="images/IMG_12_DCDC_modules.jpg" width="25.5%" />
-    <img src="images/IMG_13_DCDC_modules.jpg" width="25.5%" />
+    <img src="images/LGIU_Box_1.jpg" width="32%" />
+    <img src="images/LGIU_Box_2.jpg" width="32%" />
+    <img src="images/LGIU_Box_3.jpg" width="32%" />
   </p>
-   <p align="center">
-    <img src="images/IMG_14_Box_DCDC_ports.jpg" width="45%" />
-    <img src="images/IMG_15_Box_Battery_montag.jpg" width="25.5%" />
-    <img src="images/IMG_16_Box_Battery_montag.jpg" width="25.5%" />
-  </p>
+ 
   <p align="center">
-    <img src="images/IMG_17_Power_B_Panel.jpg" width="32%" />
-    <img src="images/IMG_Power_B_panel.jpg" width="32%" />
-    <img src="images/IMG_flashlight_handle.jpg" width="32%" />
+    <img src="images/LGIU_Box_4.jpg" width="32%" />
+    <img src="images/LGIU_main_panel.jpg" width="32%" />
+    <img src="images/LGIU_Box_5.jpg" width="32%" />
   </p>
-  <p>
-    <b>Engineering Note:</b> During the assembly, special attention was paid to wire management and insulation. 
-    I used a <b>Daly Active Balancer</b> alongside the BMS to ensure long-term cell health. 
-    All high-current paths are reinforced and fused for maximum safety.
-  </p>
+  
+ <p align="center">
+    <img src="images/LGIU_Box_8.jpg" width="32%" />
+    <img src="images/LGIU_Box_9.jpg" width="32%" />
+    <img src="images/LGIU_Box_7.jpg" width="32%" />
+  </p>   
+  
 </details>
 
 
