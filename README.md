@@ -11,6 +11,7 @@ Welcome to my technical repository. Here is a curated list of my designs, rangin
 
 ---
 ## 🛠️ Tech Stack & Skills
-* **CAD/MCAD:** SolidWorks (3D Modeling, Assemblies, 3D PDF).
-* **ECAD/Simulation:** NI Multisim, DipTrace (PCB Design & Schematics).
-* **Hardware:** LiFePO4 Systems, BMS/Active Balancing, Audio Circuitry.
+* **Design & CAD:** SolidWorks (3D Assembly, STL Optimization), 3D PDF Documentation.
+* **Electronics:** LiFePO4 Management (BMS), Power Electronics, High-Voltage AC Safety.
+* **Embedded & RF:** Betaflight/ArduPilot configuration, ELRS (915MHz/2.4GHz), EMI shielding.
+* **Manufacturing:** 3D Printing (TPU/PETG), Metalwork (Stainless Steel), Precision Soldering.
