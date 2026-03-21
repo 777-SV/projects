@@ -34,7 +34,10 @@ Since all components were sourced separately, I encountered numerous technical c
     * *Result:* Superior vibration damping (jello reduction), forward-shifted FOV to minimize propeller interference, and improved tilt-angle adjustability.
 * **Electrical Isolation:** Utilized **self-adhesive electrical grade pressboard (Fish paper)** to isolate high-power VTX modules from the conductive carbon fiber frame, preventing shorts and interference.
 * **Hardware Debugging:** Diagnosed and rectified manufacturing defects, including incorrect ribbon cable pinouts that contradicted official documentation.
-
+* **Payload Systems & Servo Integration (Power & Logic):**
+    * **Challenge:** Integrating multiple high-torque servos for drop systems on 10" frames caused two major issues: **5V rail brownouts** (due to high peak current draw) and **firmware resource conflicts** (limited PWM mapping in standard Betaflight targets).
+    * **Solution:** * **Power:** Bypassed the flight controller's internal BEC by implementing **dedicated external DC-DC Buck converters**. This isolated the servos' "dirty" power from the sensitive flight electronics, preventing mid-air reboots.
+        * **Logic:** Re-mapped unused Motor/LED pads via CLI to create additional PWM outputs and overcame firmware limitations by custom-assigning resources to handle multiple payload triggers simultaneously.
 ---
 
 ## 5. Quality Control (QC) Protocol
