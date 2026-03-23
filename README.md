@@ -1,6 +1,13 @@
-# My Engineering Projects Portfolio 🛠️
+# 🛠️ Engineering & Tactical UAV Portfolio
 
-Welcome to my technical repository. Here is a curated list of my designs, ranging from high-end audio to field-ready power systems.
+### Mechanical & Electronics Engineer | Tactical Systems | Industrial Prototyping
+
+Welcome to my technical repository. I specialize in the design and integration of **Tactical UAV systems**, **Power Management solutions**, and **Laboratory Equipment**. 
+
+My approach combines precision 3D design (**SolidWorks**) with practical hardware reliability — ensuring that even complex systems operate flawlessly in demanding field conditions. From high-end audio circuitry to combat-ready FPV drones, my work focuses on durability, efficiency, and "out-of-the-box" engineering.
+
+---
+
 
 | Project Preview | Description & Links |
 | :---: | :--- |
