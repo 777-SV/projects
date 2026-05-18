@@ -32,7 +32,7 @@ Since all components were sourced separately, I encountered numerous technical c
 * **Power Reliability (Capacitor Reinforcement):** To prevent lead fatigue and failure under high ESR stress, I implemented a **double-fold and pre-tinning technique** for capacitor leads. This increased the conductor cross-section and mechanical structural integrity.
 * **Custom 3D Printed Optics (TPU D100):** Designed and manufactured custom camera mounts using **D100 Elastane**.
     * *Result:* Superior vibration damping (jello reduction), forward-shifted FOV to minimize propeller interference, and improved tilt-angle adjustability.
-* **Electrical Isolation:** Utilized **self-adhesive electrical grade pressboard (Fish paper)** to isolate high-power VTX modules from the conductive carbon fiber frame, preventing shorts and interference.
+* **Electrical Isolation:** [Utilized **self-adhesive electrical grade pressboard (Fish paper)**] (images/vtx_insulation_layer_2.jpg) to isolate high-power VTX modules from the conductive carbon fiber frame, preventing shorts and interference.
 * **Hardware Debugging:** Diagnosed and rectified manufacturing defects, including incorrect ribbon cable pinouts that contradicted official documentation.
 * **Payload Systems & Servo Integration (Power & Logic):**
     * **Challenge:** Integrating multiple high-torque servos for drop systems on 10" frames caused two major issues: **5V rail brownouts** (due to high peak current draw) and **firmware resource conflicts** (limited PWM mapping in standard Betaflight targets).
