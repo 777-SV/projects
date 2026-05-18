@@ -52,17 +52,18 @@ Every unit underwent a rigorous multi-stage verification process before deployme
 <details>
  <summary><b>📦 Sourced Components & Hardware Selection</b></summary>
   <p align="center">
-    <img src="images/component_selection_kit_1.jpg" width="48%" />   
-    <img src="images/VTX_AKK_1.jpg" width="48%" />  
+    <img src="images/component_selection_kit_1.jpg" width="35%" />   
+    <img src="images/1_stack_f405_50A.jpg" width="61%" />  
   </p>  
    <p align="center">
-    <img src="images/VTX_GepRC_1.jpg" width="48%" />   
-    <img src="images/VTX_MAXSOLO_1.jpg" width="48%" />  
+    <img src="images/VTX_GepRC_1.jpg" width="21%" />   
+    <img src="images/VTX_MAXSOLO_1.jpg" width="37%" />  
+     <img src="images/VTX_AKK_1.jpg" width="37%" /> 
   </p> 
    <p align="center">
-    <img src="images/tpu_camera_mount_fixed_1.jpg" width="32%" />
-    <img src="images/tpu_camera_mount_fixed_2.jpg" width="32%" />
-    <img src="images/tpu_camera_mount_fixed_3.jpg" width="32%" />
+    <img src="images/1_frame_7inch.jpg" width="37%" />
+    <img src="images/1_motor_900kv_2.jpg" width="21%" />
+    <img src="images/1_motor_900kv_1.jpg" width="37%" />
   </p>
    <p align="center">
     <img src="images/tpu_camera_mount_fixed_1.jpg" width="32%" />
@@ -73,13 +74,16 @@ Every unit underwent a rigorous multi-stage verification process before deployme
 <details>
   <summary><b>🔋 Battery Pack Assembly (Spot Welding & Geometry)</b></summary>
   <p align="center">
-    <img src="images/molicel_p42a_inventory.jpg" width="32%" />
-    <img src="images/busbar_geometry_test_1.jpg" width="32%" />
-    <img src="images/busbar_geometry_test_2.jpg" width="32%" />
+    <img src="images/molicel_p42a_inventory.jpg" width="48%" />
+      <img src="images/1_6s_bms_balance_wires.jpg" width="48%" />
+    </p>
+   <p align="center">
+    <img src="images/busbar_geometry_test_1.jpg" width="48%" />
+    <img src="images/busbar_geometry_test_2.jpg" width="48%" />
   </p>
    <p align="center">
-    <img src="images/custom_3d_printed_spacers_1.jpg" width="42%" />
-    <img src="images/custom_3d_printed_spacers_2.jpg" width="42%" />   
+    <img src="images/custom_3d_printed_spacers_1.jpg" width="48%" />
+    <img src="images/custom_3d_printed_spacers_2.jpg" width="48%" />   
   </p>
    <p align="center">
     <img src="images/final_battery_packs_testing.jpg" width="90%" />      
@@ -89,36 +93,54 @@ Every unit underwent a rigorous multi-stage verification process before deployme
 <details>
   <summary><b>🛠️ Drone Assembly & Hardware Modifications</b></summary>
   <p align="center">
-    <img src="images/stack_wiring_clean.jpg" width="32%" />
-    <img src="images/capacitor_reinforcement.jpg" width="32%" />
-    <img src="images/camera_mount_tpu_d100.jpg" width="32%" />
+    <img src="images/1_frame_chassis_assembly_1.jpg" width="61%" />
+    <img src="images/1_frame_chassis_assembly_2.jpg" width="35%" />   
   </p>
   <p align="center">
-    <img src="images/vtx_insulation_layer.jpg" width="48%" />
-    <img src="images/external_bec_integration.jpg" width="48%" />
+    <img src="images/1_motor_installation_hardware_1.jpg" width="61%" />
+    <img src="images/1_motor_installation_hardware_2.jpg" width="35%" />
+  </p>
+   <p align="center">
+    <img src="images/1_flight_stack_integration_1.jpg" width="45%" />
+    <img src="images/1_flight_stack_integration_2.jpg" width="25%" />
+    <img src="images/1_flight_stack_integration_3.jpg" width="25%" />
+  </p>
+   <p align="center">
+    <img src="images/1_esc_fc_stack_mounting_01.jpg" width="48%" />
+    <img src="images/1_esc_fc_stack_mounting_1.jpg" width="48%" />  
+  </p>
+   <p align="center">
+    <img src="images/1_esc_fc_stack_mounting_2.jpg" width="37%" />
+    <img src="images/1_esc_fc_stack_mounting_3.jpg" width="21%" />
+    <img src="images/1_esc_fc_stack_mounting_4.jpg" width="37%" />
+  </p>
+    <p align="center">
+    <img src="images/reinforced_capacitor_leads_1.jpg" width="32%" />
+    <img src="images/reinforced_capacitor_leads_3.jpg" width="32%" />
+    <img src="images/1_VTX_mounting_1.jpg" width="32%" />
   </p>
 </details>
 
 <details>
   <summary><b>🚁 Completed Builds & Quality Control Testing</b></summary>
   <p align="center">
-    <img src="images/fleet_overview_7to8_1.jpg" width="32%" />
-    <img src="images/fleet_overview_7to8_2.jpg" width="32%" />
-     <img src="images/fleet_overview_7to8_3.jpg" width="32%" />
+    <img src="images/fleet_overview_7to8_1.jpg" width="45%" />
+    <img src="images/fleet_overview_7to8_2.jpg" width="25%" />
+     <img src="images/fleet_overview_7to8_3.jpg" width="25%" />
   </p>
   <p align="center">
-    <img src="images/fpv_7inch_APEX_1.jpg" width="32%" />
-    <img src="images/fpv_7inch_APEX_2.jpg" width="32%" />
-    <img src="images/fpv_7inch_APEX_3.jpg" width="32%" />
+    <img src="images/fpv_7inch_APEX_1.jpg" width="37%" />
+    <img src="images/fpv_7inch_APEX_2.jpg" width="21%" />
+    <img src="images/fpv_7inch_APEX_3.jpg" width="37%" />
   </p>
     <p align="center">
     <img src="images/fpv_7inch_strike_build_2.jpg" width="32%" />
     <img src="images/fpv_7inch_strike_build_1.jpg" width="32%" />
-    <img src="images/fpv_7inch_strike_build_3.jpg.jpg" width="32%" />
+    <img src="images/fpv_7inch_strike_build_4.jpg" width="32%" />
   </p>
     </p>
     <p align="center">
-    <img src="images/fpv_9inch_1.jpg" width="43%" />
-    <img src="images/fpv_9inch_2.jpg" width="43%" />
+    <img src="images/fpv_9inch_1.jpg" width="61%" />
+    <img src="images/fpv_9inch_2.jpg" width="35%" />
      </p>
 </details>
