@@ -47,3 +47,78 @@ Every unit underwent a rigorous multi-stage verification process before deployme
 2.  **Visual & Mechanical Inspection:** Audit of solder joint integrity, wire management, and structural rigidity.
 3.  **Bench Testing:** Sensor calibration, motor vibration analysis, and VTX power output verification.
 4.  **Range Test:** Validation of RC link and video feed quality under low-power conditions to ensure operational range.
+
+##  Build Process & Internal Layout
+<details>
+ <summary><b>📦 Sourced Components & Hardware Selection</b></summary>
+  <p align="center">
+    <img src="images/component_selection_kit_1.jpg" width="48%" />   
+    <img src="images/VTX_AKK_1.jpg" width="48%" />  
+  </p>  
+   <p align="center">
+    <img src="images/VTX_GepRC_1.jpg" width="48%" />   
+    <img src="images/VTX_MAXSOLO_1.jpg" width="48%" />  
+  </p> 
+   <p align="center">
+    <img src="images/tpu_camera_mount_fixed_1.jpg" width="32%" />
+    <img src="images/tpu_camera_mount_fixed_2.jpg" width="32%" />
+    <img src="images/tpu_camera_mount_fixed_3.jpg" width="32%" />
+  </p>
+   <p align="center">
+    <img src="images/tpu_camera_mount_fixed_1.jpg" width="32%" />
+    <img src="images/tpu_camera_mount_fixed_2.jpg" width="32%" />
+    <img src="images/tpu_camera_mount_fixed_3.jpg" width="32%" />
+  </p>
+</details>
+<details>
+  <summary><b>🔋 Battery Pack Assembly (Spot Welding & Geometry)</b></summary>
+  <p align="center">
+    <img src="images/molicel_p42a_inventory.jpg" width="32%" />
+    <img src="images/busbar_geometry_test_1.jpg" width="32%" />
+    <img src="images/busbar_geometry_test_2.jpg" width="32%" />
+  </p>
+   <p align="center">
+    <img src="images/custom_3d_printed_spacers_1.jpg" width="42%" />
+    <img src="images/custom_3d_printed_spacers_2.jpg" width="42%" />   
+  </p>
+   <p align="center">
+    <img src="images/final_battery_packs_testing.jpg" width="90%" />      
+  </p>
+</details>
+
+<details>
+  <summary><b>🛠️ Drone Assembly & Hardware Modifications</b></summary>
+  <p align="center">
+    <img src="images/stack_wiring_clean.jpg" width="32%" />
+    <img src="images/capacitor_reinforcement.jpg" width="32%" />
+    <img src="images/camera_mount_tpu_d100.jpg" width="32%" />
+  </p>
+  <p align="center">
+    <img src="images/vtx_insulation_layer.jpg" width="48%" />
+    <img src="images/external_bec_integration.jpg" width="48%" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🚁 Completed Builds & Quality Control Testing</b></summary>
+  <p align="center">
+    <img src="images/fleet_overview_7to8_1.jpg" width="32%" />
+    <img src="images/fleet_overview_7to8_2.jpg" width="32%" />
+     <img src="images/fleet_overview_7to8_3.jpg" width="32%" />
+  </p>
+  <p align="center">
+    <img src="images/fpv_7inch_APEX_1.jpg" width="32%" />
+    <img src="images/fpv_7inch_APEX_2.jpg" width="32%" />
+    <img src="images/fpv_7inch_APEX_3.jpg" width="32%" />
+  </p>
+    <p align="center">
+    <img src="images/fpv_7inch_strike_build_2.jpg" width="32%" />
+    <img src="images/fpv_7inch_strike_build_1.jpg" width="32%" />
+    <img src="images/fpv_7inch_strike_build_3.jpg.jpg" width="32%" />
+  </p>
+    </p>
+    <p align="center">
+    <img src="images/fpv_9inch_1.jpg" width="43%" />
+    <img src="images/fpv_9inch_2.jpg" width="43%" />
+     </p>
+</details>
