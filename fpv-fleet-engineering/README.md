@@ -1,5 +1,10 @@
 # 🛸 FPV Fleet Deployment & Custom Engineering (7" - 10")
 
+<p align="center">
+<img src="images/Frame_7_inch_fon.jpg" width="48%" alt="Frame 7 inch" />
+<img src="images/1_stack_f405_50A.jpg" width="48%" alt="Stack F405" />
+</p>
+
 ## 1. Introduction
 This project was executed as part of the **Social Drone UA** volunteer initiative. The primary objective was the rapid assembly, precision tuning, and deployment of reliable UAV solutions for specialized field operations.
 
